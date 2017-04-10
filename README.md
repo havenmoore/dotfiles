@@ -1,11 +1,14 @@
 # Haven's Dotfiles
 ## Currently: 
-* a basic `.vimrc`
+* `.vimrc`
+* `karabiner.json`
 ## Other Setup:
 
 ### OS X
 * Install Karabiner-Elements
   * https://github.com/tekezo/Karabiner-Elements/blob/master/README.md
+  * `sudo mkdir ~/.config/karabiner`
+  * `sudo cp karabiner.json ~/.config/karabiner/`
 * Install Spectacle
   * https://github.com/eczarny/spectacle
 
