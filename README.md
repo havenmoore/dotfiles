@@ -14,9 +14,7 @@
 
 ### iTerm2
 * Font: Monaco, 12pt
-* carloscuesta's materialshell-dark theme
-  * https://github.com/carloscuesta/materialshell/blob/master/osx/iterm/materialshell-dark.itermcolors
-
+  * material-dark-modified.itermcolors
 ### zsh
 * https://github.com/robbyrussell/oh-my-zsh
 * set `ZSH_THEME="mh"` in `.zshrc`
